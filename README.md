@@ -9,5 +9,5 @@ Choisissez le nombre à rentrer en fonction de la fonction désirée :
 3-Extraire la master private key et le chain code
 4-Extraire la master public key
 5-Générer une clé enfant
-6-Générer une clé enfant à l’index N (Ajoutez l'index N à la fin : node index.js 6 15
-7-Générer une clé enfant à l’index N au niveau de dérivation M
+6-Générer une clé enfant à l’index N (Ajoutez l'index N à la fin : node index.js 6 15)
+7-Générer une clé enfant à l’index N au niveau de dérivation M (Ajoutez l'index N et la dérivation M à la fin : node index.js 7 5 4)
